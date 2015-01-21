@@ -1,2 +1,2 @@
 # azuki-ocr
-Azuki Framework OCR library
+Azuki Framework optical character recognition library
